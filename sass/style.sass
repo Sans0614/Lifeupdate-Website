@@ -1,0 +1,755 @@
+@charset "UTF-8"
+
+*
+  -webkit-box-sizing: border-box !important
+  box-sizing: border-box !important
+  font-family: "Roboto", "Noto Sans TC", "微軟正黑體", sans-serif !important
+  word-break: break-word !important
+
+html
+  margin: 0
+  padding: 0
+
+body
+  margin: 0
+  padding: 0
+
+
+$brand-blue: #0080AE
+$blue-b100: #C5F0FF
+$blue-b95: #DAECF3
+
+$brand-orange: #F18D1D
+
+$black : #1D1D1D
+$gray-70: #333333
+$gray-50: #727272
+$gray-30: #BBBBBB
+$gray-10: #EFEFEF
+$white: #FFFFFF
+
+
+=flexCenter($jc: center,$ai: center,$fd: row)
+  display: flex
+  justify-content: $jc
+  align-items: $ai
+  flex-direction: $fd
+=mp($m:0,$p:0)
+  margin: $m
+  padding: $p 
+=posaCenter
+  position: absolute
+  left: 50%
+  top: 50%
+  transform: translate(-50%,-50%)
+=bg
+  background-position: center
+  background-repeat: no-repeat
+  background-size: cover
+=hw($h:100%,$w:$h)
+  height: $h
+  width: $w
+=hr($bgc:#000,$width:5%,$height: 1px,$ml:auto)
+  background-color: $bgc
+  width: $width
+  height: $height
+  margin-left: $ml
+
+
+// Font
+h1
+  font-size: 72px !important
+  color: $black !important
+  line-height: 1.2 !important
+  font-weight: 700 !important
+  font-family: "Poppins", "Noto Sans TC", "微軟正黑體", sans-serif !important
+
+h2
+  font-size: 42px !important
+  color: $black !important
+  line-height: 1 !important
+  font-weight: 700 !important
+
+h3
+  font-size: 28px !important
+  color: $black !important
+  line-height: 1.5 !important
+  font-weight: 700 !important
+
+h4
+  font-size: 24px !important
+  color: $black !important
+  line-height: 1.5 !important
+  font-weight: 700 !important
+
+h5
+  font-size: 18px !important
+  color: $gray-70 !important
+  line-height: 1 !important
+  font-weight: 500 !important
+
+h6
+  font-size: 16px !important
+  color: $gray-50 !important
+  font-weight: 300 !important
+  font-weight: 500 !important
+
+p
+  font-size: 20px !important
+  color: $black !important
+  letter-spacing: 1px !important
+  line-height: 1.5 !important
+
+@media (max-width: 767.98px)
+  h1
+    font-size: 54px !important
+  h2
+    font-size: 32px !important
+  h3
+    font-size: 24px !important
+  h4
+    font-size: 20px !important
+  h5
+    font-size: 16px !important
+  h6
+    font-size: 14px !important
+  p
+    font-size: 18px !important
+
+.fz-18
+  font-size: 18px !important
+
+.fz-20
+  font-size: 20px !important
+
+.fz-22
+  font-size: 22px !important
+
+.fz-24
+  font-size: 24px !important
+
+.fz-28
+  font-size: 28px !important
+
+.fz-32
+  font-size: 32px !important
+
+@media (max-width: 767.98px)
+  .fz-mb-24
+    font-size: 24px !important
+
+  .fz-mb-16
+    font-size: 16px !important
+
+
+a
+  color: $black
+
+  &:hover
+    text-decoration: none
+    color: $brand-blue
+
+img
+  width: auto !important
+  max-width: 100% !important
+  height: auto !important
+  object-fit: contain !important
+
+iframe
+  max-width: 100% !important
+
+blockquote
+  padding-left: 10px !important
+  border-left: 5px solid $gray-10 !important
+
+textarea
+  resize: none
+
+//Spacing 空間設置
+.mt--10
+  margin-top: -10px !important
+
+.mt--200
+  margin-top: -200px !important
+
+.mt-10
+  margin-top: 10px !important
+
+.mt-15
+  margin-top: 15px !important
+
+.mt-20
+  margin-top: 20px !important
+
+.mt-30
+  margin-top: 30px !important
+
+.mt-50
+  margin-top: 50px !important
+
+.mt-80
+  margin-top: 80px !important
+
+.mb-0
+  margin-bottom: 0px !important
+
+.mb-5px
+  margin-bottom: 5px !important
+
+.mb-10
+  margin-bottom: 10px !important
+
+.mb-15
+  margin-bottom: 15px !important
+
+.mb-20
+  margin-bottom: 20px !important
+
+.mb-30
+  margin-bottom: 30px !important
+
+.mb-50
+  margin-bottom: 50px !important
+
+.mb-80
+  margin-bottom: 80px !important
+
+.mr-20
+  margin-right: 20px !important
+
+.mx-auto
+  margin-left: auto
+  margin-right: auto
+
+.my-10
+  margin-top: 10px !important
+  margin-bottom: 10px !important
+
+.my-15
+  margin-top: 15px !important
+  margin-bottom: 15px !important
+
+.p-13
+  padding: 13px !important
+
+.p-20
+  padding: 20px !important
+
+.p-12
+  padding: 10px 20px !important
+
+.p-23
+  padding: 20px 30px !important
+
+.p-25
+  padding: 20px 50px !important
+
+.p-30
+  padding: 30px !important
+
+.p-43
+  padding: 40px 30px !important
+
+.p-45
+  padding: 40px 50px !important
+
+.p-50
+  padding: 50px !important
+
+.pl-20
+  padding-left: 20px !important
+
+.pl-50
+  padding-left: 50px !important
+
+.pr-50
+  padding-right: 50px !important
+
+.pb-80
+  padding-bottom: 80px !important
+
+.py-58
+  padding-top: 50px !important
+  padding-bottom: 80px !important
+
+.py-50
+  padding-top: 50px !important
+  padding-bottom: 50px !important
+
+@media (max-width: 1199.98px)
+  .mt-tb-0
+    margin-top: 0 !important
+
+  .mt-mb-0
+    margin-top: 0 !important
+
+  .mt-mb-30
+    margin-top: 30px !important
+
+  .mb-mb-0
+    margin-bottom: 0 !important
+
+  .mx-tb-auto
+    margin-left: auto
+    margin-right: auto
+
+  .p-md-10
+    padding: 10px !important
+
+  .p-mb-20
+    padding: 20px !important
+
+  .p-mb-32
+    padding: 30px 20px !important
+
+  .pr-mb-5
+    padding-right: 5px !important
+
+  .pl-mb-5
+    padding-left: 5px !important
+
+  .px-mb-8
+    padding-left: 8px !important
+    padding-right: 8px !important
+
+@media (max-width: 767.98px)
+  .p-mb-0
+    padding: 0 !important
+  .p-mb-23
+    padding: 20px 30px !important
+
+//Sizing 尺寸設置
+
+.h-1
+  height: 1px !important
+
+.h-2
+  height: 2px !important
+
+.h-50px
+  height: 50px !important
+
+.h-60px
+  height: 60px !important
+
+.h-80px
+  height: 80px !important
+
+.h-100px
+  height: 100px !important
+
+.h-200
+  height: 200px !important
+
+.h-250
+  height: 250px !important
+
+.h-300
+  height: 300px !important
+
+.h-400
+  height: 400px !important
+ 
+.h-500
+  height: 500px !important
+
+.w-50px
+  width: 50px !important
+
+.w-60px
+  width: 60px !important
+
+.w-100px
+  width: 100px !important
+
+.w-300
+  width: 300px !important
+
+.w-800px
+  width: 800px !important
+
+.w-60pc
+  width: 60% !important
+
+
+@media (max-width: 1199.98px)
+  .w-mb-80pc
+    width: 80% !important
+    max-width: 80% !important
+
+  .w-mb-100pc
+    width: 100% !important
+
+  .w-tb-300
+    width: 300px !important
+
+  .w-tb-75pc
+    width: 75% !important
+
+  .w-tb-mx100pc
+    max-width: 100% !important
+
+  .h-mb-300
+    height: 300px !important
+
+@media (max-width: 767.98px)
+  .w-mb-100
+    width: 100% !important
+
+  .w-mb-60pc
+    width: 60% !important
+
+  .h-mb-250
+    height: 250px !important
+
+//Border 外框設置
+.rounded-10
+  border-radius: 10px !important
+
+.rounded-10-10-0-0
+  border-radius: 10px 10px 0 0 !important
+
+.rounded-10-0-0-10
+  border-radius: 10px 0px 0px 10px !important
+
+.rounded-0-10-10-0
+  border-radius: 0 10px 10px 0 !important
+
+.border-brand-blue
+  border: 1px solid $brand-blue !important
+
+.border-left-brand-blue
+  border-left: 1px solid $brand-blue !important
+
+.border-hover-brand-orange
+  &:hover
+    border: 1px solid $brand-orange !important
+
+@media (max-width: 1199.98px)
+  .border-none
+    border: 0 !important
+
+//Background
+.bg-bottom
+  background: linear-gradient(to bottom, $white, $blue-b100) !important
+
+.bg-logo-bottom
+  position: relative !important
+  z-index: 1 !important
+  &:before
+    content: "" !important
+    display: block !important
+    position: absolute !important
+    top: 0 !important
+    left: -400px !important
+    height: 400px !important
+    width: 1000px !important
+    background-position: right !important
+    background-repeat: no-repeat !important
+    background-size: cover !important
+    background-image: url(http://lifeupdate.com.tw/wp-content/themes/astra/img/bg-logo-bottom.png) !important
+
+.bg-logo-top
+  position: relative !important
+  z-index: 1 !important
+  &:before
+    content: "" !important
+    display: block !important
+    position: absolute !important
+    bottom: 0 !important
+    right: -400px !important
+    height: 400px !important
+    width: 1000px !important
+    background-position: left !important
+    background-repeat: no-repeat !important
+    background-size: cover !important
+    background-image: url(http://lifeupdate.com.tw/wp-content/themes/astra/img/bg-logo-top.png) !important
+
+.bg-top
+  background: linear-gradient(to top, $white, $blue-b100) !important
+
+.bg-white
+  background: $white !important
+
+.bg-brand-blue
+  background-color: $brand-blue !important
+
+.bg-blue-b95
+  background-color: $blue-b95 !important
+
+.bg-blue-b100
+  background-color: $blue-b100 !important
+
+.bg-brand-orange
+  background-color: $brand-orange !important
+
+.bg-gray-30
+  background-color: $gray-30 !important
+
+.bg-hover
+  background: rgba(0,0,0,0.6) !important
+
+@media (max-width: 767.98px)
+  .bg-logo-bottom
+    &:before
+      left: -300px !important
+      height: 250px !important
+      width: 600px !important
+
+  .bg-logo-top
+    &:before
+      right: -300px !important
+      height: 250px !important
+      width: 600px !important
+
+//Shadow
+.shodow-3
+  box-shadow: 3px 3px 10px rgba(0,0,0,0.2) !important
+
+.shodow-10
+  box-shadow: 10px 10px 30px rgba(0,0,0,0.2) !important
+
+//List
+.list-style-dc
+  list-style-type: decimal !important
+
+//Position 定位設置
+
+.left-10
+  left: 10px !important
+
+.left-20
+  left: 20px !important
+
+.bottom-10
+  bottom: 10px !important
+
+//Color
+.white
+  color: $white !important
+
+.black
+  color: $black !important
+
+.red
+  color: red !important
+
+.brand-blue
+  color: $brand-blue !important
+
+.job-position-blue
+  color: #6DB6D0 !important
+
+//Image 
+.img-obj-cover
+  object-fit: cover !important
+
+
+//Z-index
+.z-index-1
+  z-index: 1 !important
+
+.z-index-500
+  z-index: 500 !important
+
+.z-index-1000
+  z-index: 1000 !important
+
+//Position
+.position-absolute-center
+  position: absolute !important
+  left: 50% !important
+  top: 50% !important
+  transform: translate(-50%,-50%) !important
+
+//Input
+.input-blue-95
+  background-color: $blue-b95 !important
+  border: $blue-b95 !important
+  padding: 10px 20px !important
+  border-radius: 10px !important
+  width: 100% !important
+
+.input-blue-95:focus-visible
+  outline: $brand-blue auto 1px !important
+
+.input-blue-95::placeholder
+  color: $brand-blue !important
+
+.input-white
+  background-color: $white !important
+  border: 1px solid $brand-blue !important
+  padding: 10px 20px !important
+  border-radius: 10px 0 0 10px !important
+  width: 100% !important
+
+.input-white:focus-visible
+  outline: $brand-blue auto 1px !important
+
+.input-white::placeholder
+  color: $brand-blue !important
+
+.index-dropbox
+  select, option
+    color: $brand-blue !important
+
+//Container
+.container-1100
+  max-width: 1100px !important
+
+//Overflow
+.overflow-x
+  overflow-x: clip !important
+
+// 文字超過3行不顯示
+.ellipsis
+  display: -webkit-box
+  overflow: hidden
+  -webkit-line-clamp: 3
+  -webkit-box-orient: vertical
+  white-space: normal
+  text-overflow: ellipsis
+
+//幻燈片設定
+.swiper
+  width: 100%
+  height: 100%
+
+.swiper-slide
+  display: -webkit-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-box-pack: center
+  -ms-flex-pack: center
+  -webkit-justify-content: center
+  justify-content: center
+  -webkit-box-align: center
+  -ms-flex-align: center
+  -webkit-align-items: center
+  align-items: center
+
+.swiper-pagination-bullet
+  width: 50px
+  height: 2px
+  border-radius: 5px
+  margin-top: 10px !important
+  &:hover
+    background-color: $brand-orange
+    opacity: 1
+
+.swiper-pagination-bullet-active
+  background-color: $brand-blue
+
+.swiper-button-next
+  right: -30px
+  color: $brand-blue
+  &:hover
+    color: $brand-orange
+
+.swiper-button-prev
+  left: -30px
+  color: $brand-blue
+  &:hover
+    color: $brand-orange
+
+.service-process-swiper-pagination
+  .swiper-pagination-bullet-active
+    background-color: $white
+
+
+
+
+//首頁BN
+#index-banner
+  background-image: url(https://lifeupdate.com.tw/wp-content/themes/astra/img/photo/company.jpg)
+  background-position: center !important
+  background-repeat: no-repeat !important
+  background-size: cover !important
+  &:after
+    content:"" !important
+    position: absolute !important
+    top: 0 !important
+    height: 100% !important
+    width: 100% !important
+    display: block !important
+    z-index: 1 !important
+    background: rgba(0,0,0,0.6) !important
+
+
+// 各頁面BN
+#page-banner
+  background-color: #F0FBFF !important
+  height: 800px !important
+  @media (max-width: 1199.98px)
+    height: 100% !important
+    padding-top: 50px !important
+    padding-bottom: 50px !important
+    text-align: center !important
+
+//各頁面底線
+.title-hr
+  width: 100px
+  height: 2px
+  background-color: $brand-blue
+  border-radius: 100px
+  margin-top: 10px
+  margin-bottom: 10px
+  @media (max-width: 1199.98px)
+    margin: 10px auto
+
+.hr
+  background-color: $brand-blue
+  border-radius: 100px
+  margin-top: 10px
+  margin-bottom: 10px
+
+
+//按鈕陰影
+.btn-cta
+  &:hover
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.2) !important
+
+.btn-text
+  color: $brand-blue !important
+  &:hover
+    color: $brand-orange !important
+
+.btn-outline-brand-blue
+  border: 1px solid $brand-blue !important
+  color: $brand-blue
+  &:hover
+    background-color: $brand-blue !important
+    color: $white !important
+
+.btn-hover-brand-orange
+  &:hover
+    background-color: $brand-orange !important
+
+
+//作品集卡片
+.portfolio-card
+  object-fit: cover
+  &:hover
+    .portfolio-card-hover
+      display: block
+  .portfolio-card-hover
+    display: none
+
+// 營運流程卡片
+.process-card
+  height: calc(100% - 20px)
+
+@media (max-width: 1199.98px)
+  .process-card
+    text-align: center
+
+
+
+    
+
+
+@media (max-width: 1199.98px)
+  
+
+@media (max-width: 575.98px)

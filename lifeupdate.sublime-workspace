@@ -1,0 +1,777 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"flx",
+				"flex-direction"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"padding-",
+				"padding-left\tproperty"
+			],
+			[
+				"d-none",
+				"d-tb-none"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"no",
+				"no_message_outline_white"
+			],
+			[
+				"tr",
+				"translateY"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"t",
+				"translateX"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"d-",
+				"d-tb-block"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"Wh",
+				"White"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"W",
+				"White"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"White",
+				"white"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"none",
+				"border-none"
+			],
+			[
+				"g",
+				"gray-30"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"gr",
+				"gray-50"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"br",
+				"brand-orange"
+			],
+			[
+				"bra",
+				"brand-orange"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bl",
+				"blue-b95"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"gray",
+				"gray-70"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"save",
+				"saveIcon"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"re",
+				"remove\t.remove()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"fw",
+				"font-weight\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pug/index.pug",
+			"settings":
+			{
+				"buffer_size": 29484,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"SASS",
+				"SassBeautify"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"",
+				"Set Syntax: Sass"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"Installed Packages/ folder"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/pug"
+	],
+	"file_history":
+	[
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/css/style.css",
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/sass/style.sass",
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/international.html",
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/pug/international.pug",
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/pug/classic.pug",
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/pug/about.pug",
+		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/pug/index.pug",
+		"/C/升活商務顧問有限公司/09_20220516_王者咖啡/01_Website/04_Code/edit/classic.html",
+		"/C/升活商務顧問有限公司/09_20220516_王者咖啡/01_Website/04_Code/edit/about.html",
+		"/C/升活商務顧問有限公司/09_20220516_王者咖啡/01_Website/04_Code/edit/index.html",
+		"/C/升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/pug/access_problem.pug",
+		"/C/升活商務顧問有限公司/09_20220516_王者咖啡/01_Website/04_Code/edit/pug/about.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/09_20220516_王者咖啡/01_Website/04_Code/edit/css/style.css",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/js/social.js",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/js/navbar.js",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/sass/style-social.sass",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/style-social.css",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/sass/style.sass",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/sass/navbar.sass",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/navbar-social.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/navbar-social.html",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-message.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/edit-social-post.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-post.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-personal-page.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-hashtag.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-check-in.pug",
+		"/C/Users/rebou/Desktop/Sans/01_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/report.pug",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social-personal-page.html",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/style-social.css",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/edit-social-post.html",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social-post.html",
+		"/C/Users/rebou/Desktop/style-social.css",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/07_20220429_頑粿/01_Website/04_Code/Edit/css/style.css",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/navbar-social.html",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Slasher/Web-End/Code/Edit/social-message.html",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-message-old.pug",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social-message.html",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/privacy.pug",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/service.pug",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/emmet-sublime-master/Default (Windows).sublime-keymap",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/service.html",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/privacy.html",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/emmet-sublime-master/emmet/snippets.json",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-keymap",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge.sublime-settings",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Installed Packages/Emmet.sublime-package",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Slasher/Web-End/Code/Edit/css/member.css",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/navbar.css",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-message.pug",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-message-vs02.pug",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/member.css",
+		"/C/Users/rebou/Desktop/升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Slasher/Web-End/Code/Edit/social-personal-page.html",
+		"/C/Users/rebou/Desktop/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-post-error.pug",
+		"/C/Users/rebou/Desktop/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-term.pug",
+		"/C/Users/rebou/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/rebou/Desktop/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/style-social.css",
+		"/C/Users/rebou/Desktop/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social-personal-page.html",
+		"/C/Users/rebou/Desktop/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/navbar-social.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-personal-page.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/youtubelist.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-post.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/Test.sublime-workspace",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/account.sublime-project",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/js/social.js",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/pug/about.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/sass/style.sass",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/sass/style-social.sass",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/sass/style.sass",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/sass/navbar.sass",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/edit-social-post.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/navbar-social.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/js/index.js",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/js/navbar.js",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/report.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-post-error.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Slasher/Web-End/Code/Edit/social-post-error.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/css/style.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/pug/shop.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/shop.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/privacy.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/member.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/pug/store.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/pug/member.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/navbar-social.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/report.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/navbar.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/coupon-detail.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/my-couponlist.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Slasher/Web-End/Code/Edit/coupon-detail.html",
+		"/C/Users/sans/Downloads/style-social.css",
+		"/C/Users/sans/AppData/Local/Temp/Rar$DIa22828.14136/style-social.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Slasher/Web-End/Code/Edit/css/style-social.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social-post.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/all-couponlist.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/06_20220210_麻膳堂Mazendo/01_Website/04_Code/Edit/pug/notice.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/pug/social-term.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/01_Website/03_Index/02_Code/edit/css/style.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/01_Website/03_Index/02_Code/edit/js/body-hover-animation.js",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/01_Website/03_Index/02_Code/edit/2022-04-index-loading.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/01_Website/03_Index/02_Code/edit/pug/2022-04-index-loading.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/01_Website/03_Index/02_Code/edit/pug/2022-01-index-loading.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/index.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/pug/index.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/pug/固營.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/固營.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/日光維生素D3.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/operation.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/css/style.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/sass/style.sass",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/pug/operation.pug",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/style-social.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/coupon-detail2.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/navbar.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/login.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social.html",
+		"/C/Users/sans/AppData/Local/Temp/Rar$DIa4396.28141/style-social.css",
+		"/C/Users/sans/AppData/Local/Temp/Rar$DIa1704.34270/style-social.css",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/index.html",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/js/app.27cedd87.js",
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/js/chunk-vendors.5d167d59.js",
+		"/C/Users/sans/Desktop/中化360° - AP磁王2000.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://lifeupdate.com.tw",
+			"data-aos-duration=\"1500\"",
+			"'1000'",
+			".international-country-text",
+			"relative",
+			"FEF7EF",
+			"https://cdn.cybassets.com/s/files/21968/ckeditor/pictures/content_37ffd4e1-a58b-4da5-ba3c-c0e9954df0cf.jpg",
+			".pl-tb-0px",
+			"products",
+			".container",
+			".index-vide",
+			".international-page",
+			"國王咖啡",
+			"Four",
+			"Three",
+			"國王咖啡",
+			" data-bs-parent='#accordionFlushExample'",
+			" data-bs-parent='.accordion-flush'",
+			"#accordionFlushExample",
+			"cover",
+			" index-video",
+			"social-message-share-btn",
+			"social-message-chat-content-video-play",
+			".social-message-chat-content-personal-page-img",
+			"#836FFF",
+			"#CEDAF2",
+			"#836FFF",
+			"social-message-chat-content-part a",
+			"傳送訊息",
+			"bg-tb-gray-1d1d1d",
+			"特殊符號",
+			"提他",
+			".red.mt-8px",
+			"需要限制只能使用小寫英文/數字/底線/英文句點",
+			"/-/_/.",
+			"<div class=\"edit-social-personal-page-user-data-block\">",
+			"edit-social-personal-page-user-data-block",
+			"//20220517 新增placeholder",
+			"input.edit-social-pe",
+			"textarea.edit-social-personal-page",
+			".edit-social-personal-page-name-id",
+			"input",
+			".social-tag-list-user-name",
+			".social-message-chat-content",
+			".social-message-chat-content-post-meta",
+			".social-message-chat-content",
+			".social-message-chat-content-link-title",
+			".social-message-chat-content-link-description",
+			".social-message-chat-personal",
+			"私訊",
+			".social-message-chat-user",
+			"social-message-chat-content",
+			".social-message-chat-content",
+			"social-message-chat-personal",
+			".social-message-chat-content-link-description",
+			".social-message-chat-user",
+			".social-message-chat-user,.social-message-chat-content",
+			".social-message-chat-user,.social-message-chat-content ",
+			".social-message-chat-content",
+			".social-message-chat-persona",
+			" .social-message-chat-user-content-personal-page",
+			"width: 250px",
+			".social-message-chat-content-link-description",
+			".social-message-chat-personal",
+			"max-width: 200px",
+			".social-message-chat-personal-content,.social-message-chat-content",
+			" .social-message-chat-personal-content,.social-message-chat-content",
+			".social-message-chat-personal-content",
+			".social-message-chat-user.social-message-chat-content-link-description",
+			"20220511",
+			"20220510",
+			"20220511",
+			"標註人名",
+			"20220511",
+			"20220510",
+			"20220511",
+			"-給力信息科技有限公司給力信息科技有限公司給力信息科技有限公司",
+			"SANDERS-SANDERSSANDERSSANDERSSANDERSSANDERS",
+			".social-post-header",
+			"該粉絲",
+			"font-size: 14px\n  color: $gray-808080",
+			".social-check-in",
+			"height",
+			".social-post-comment-block",
+			"input",
+			"border-radius",
+			"margin-left: 16px",
+			"20220507",
+			".social-personal-page-no-articles-block",
+			"//電腦版被選取的聊天對象，會加上.bg-333333這個class",
+			"social-message-chat-content-post-meta",
+			"social-message-chat-post-block",
+			"social-message-chat-img-block",
+			".social-message-chat-content-post-title",
+			"social-message-chat-content-post-title",
+			".social-message-chat-user-content",
+			".social-message-chat-personal",
+			".social-message-edit-section",
+			".social-post-report-options-section.social-message-edit-section",
+			".social-message-chat-personal-content-link",
+			"social-message-chat-personal-content-link",
+			".social-message-chat-personal-content-link",
+			"\"social-message-chat-user-content-text",
+			".social-message-chat-personal-content-link",
+			"#social-message-share",
+			"20220506",
+			".social-message-chat-text-block",
+			".social-message-chat-block",
+			"social-message-chat-content-block",
+			"ocial-message-chat-content-block",
+			"20220506",
+			".social-message-chat-block",
+			"social-message-chat-content-block",
+			"//大螢幕版本 : 顯示聊天對象的使用者名稱，沒有選取時隱藏",
+			"social-post-om-header",
+			"z-index 200",
+			"#social-message",
+			"p",
+			"lip",
+			".social-terms-title",
+			"p.social-terms-title",
+			".social-terms-content",
+			"p.social-terms-content",
+			".social-terms-content",
+			"  #",
+			"service.html",
+			"social-term.html",
+			"btn-social-post-report-term"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pug/index.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27038,
+								27038
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8587.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.735206564799,
+			0.971703452179,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 31.0
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lifeupdate.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 153.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

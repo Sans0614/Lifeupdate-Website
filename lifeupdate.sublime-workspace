@@ -255,9 +255,36 @@
 			"file": "pug/index.pug",
 			"settings":
 			{
-				"buffer_size": 29484,
+				"buffer_size": 29166,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pug/operation.pug",
+			"settings":
+			{
+				"buffer_size": 11735,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/style.sass",
+			"settings":
+			{
+				"buffer_size": 13091,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 14202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -322,11 +349,14 @@
 	},
 	"expanded_folders":
 	[
-		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code",
-		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/pug"
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/css",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/sass"
 	],
 	"file_history":
 	[
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/operation.html",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/index.html",
 		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/css/style.css",
 		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/sass/style.sass",
 		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/international.html",
@@ -452,9 +482,7 @@
 		"/C/Users/sans/AppData/Local/Temp/Rar$DIa4396.28141/style-social.css",
 		"/C/Users/sans/AppData/Local/Temp/Rar$DIa1704.34270/style-social.css",
 		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/index.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/js/app.27cedd87.js",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/js/chunk-vendors.5d167d59.js",
-		"/C/Users/sans/Desktop/中化360° - AP磁王2000.html"
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/js/app.27cedd87.js"
 	],
 	"find":
 	{
@@ -472,6 +500,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"wp-content/themes",
+			"http://lifeupdate.com.tw/",
+			".mt--10",
+			"mt--10",
+			"樂天店家-卓老牌.png",
+			"樂天店家-卓老牌",
+			"DiDi",
+			"/uploads/2021/04/",
+			"https://lifeupdate.com.tw",
+			"/wp-content",
 			"http://lifeupdate.com.tw",
 			"data-aos-duration=\"1500\"",
 			"'1000'",
@@ -589,17 +627,7 @@
 			"social-post-om-header",
 			"z-index 200",
 			"#social-message",
-			"p",
-			"lip",
-			".social-terms-title",
-			"p.social-terms-title",
-			".social-terms-content",
-			"p.social-terms-content",
-			".social-terms-content",
-			"  #",
-			"service.html",
-			"social-term.html",
-			"btn-social-post-report-term"
+			"p"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -617,7 +645,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -626,15 +654,50 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 29484,
+						"buffer_size": 29166,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								27038,
-								27038
+								21472,
+								21472
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9196.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pug/operation.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1702,
+								1702
 							]
 						],
 						"settings":
@@ -647,7 +710,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 8587.0,
+						"translation.y": 399.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -656,8 +719,79 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 2,
+					"file": "sass/style.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14040.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13807,
+								13807
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1242.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -700,7 +834,7 @@
 		"cols":
 		[
 			0.0,
-			0.735206564799,
+			0.589762308998,
 			0.971703452179,
 			1.0
 		],

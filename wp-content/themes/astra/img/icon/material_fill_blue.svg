@@ -1,0 +1,70 @@
+<svg id="Website_Icon_Design_03" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="360" viewBox="0 0 360 360">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="椭圆_153" data-name="椭圆 153" cx="180" cy="180" r="180"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="路径_110" data-name="路径 110" d="M112.61,303.39l19.87-39.49H81.55l19.87,39.49A6.268,6.268,0,0,0,112.61,303.39Z" transform="translate(-92.54 -292.36)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="路径_113" data-name="路径 113" d="M258.58,303.39l19.87-39.49H227.52l19.87,39.49A6.268,6.268,0,0,0,258.58,303.39Z" transform="translate(-238.5 -292.36)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="路径_118" data-name="路径 118" d="M205.8,263.9H154.87l19.87,39.49a6.262,6.262,0,0,0,11.19,0"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="路径_121" data-name="路径 121" d="M154.87,263.9H205.8l-19.87,39.49a6.262,6.262,0,0,1-11.19,0"/>
+    </clipPath>
+  </defs>
+  <g id="_x30_3">
+    <g id="组_685" data-name="组 685">
+      <circle id="椭圆_152" data-name="椭圆 152" cx="180" cy="180" r="180" fill="#0080ae"/>
+      <g id="组_672" data-name="组 672">
+        <g id="组_671" data-name="组 671" clip-path="url(#clip-path)">
+          <path id="路径_107" data-name="路径 107" d="M271.59,62.13v72.64L198.94,62.13l-18.77,54.54L125.63,62.13,103.12,306.37,251.69,454.94,441.13,265.5Z" fill="#00a1cc"/>
+        </g>
+      </g>
+      <g id="组_684" data-name="组 684">
+        <g id="组_675" data-name="组 675">
+          <path id="路径_108" data-name="路径 108" d="M107.02,53.16h0a25.461,25.461,0,0,1,25.46,25.46V263.9H81.55V78.63A25.466,25.466,0,0,1,107.02,53.16Z" fill="#ff7f51"/>
+          <path id="路径_109" data-name="路径 109" d="M112.61,303.39l19.87-39.49H81.55l19.87,39.49A6.268,6.268,0,0,0,112.61,303.39Z" fill="#ff6333"/>
+          <g id="组_674" data-name="组 674">
+            <g id="组_673" data-name="组 673" transform="translate(92.54 292.36)" clip-path="url(#clip-path-2)">
+              <rect id="矩形_244" data-name="矩形 244" width="28.91" height="14.48" fill="#fff"/>
+            </g>
+          </g>
+          <rect id="矩形_245" data-name="矩形 245" width="24.28" height="79.71" transform="translate(101.35 76.76)" fill="#fff"/>
+        </g>
+        <g id="组_678" data-name="组 678">
+          <path id="路径_111" data-name="路径 111" d="M252.98,53.16h0a25.461,25.461,0,0,1,25.46,25.46V263.9H227.51V78.63A25.479,25.479,0,0,1,252.98,53.16Z" fill="#f48431"/>
+          <path id="路径_112" data-name="路径 112" d="M258.58,303.39l19.87-39.49H227.52l19.87,39.49A6.268,6.268,0,0,0,258.58,303.39Z" fill="#ef6d14"/>
+          <g id="组_677" data-name="组 677">
+            <g id="组_676" data-name="组 676" transform="translate(238.5 292.36)" clip-path="url(#clip-path-3)">
+              <rect id="矩形_246" data-name="矩形 246" width="28.91" height="14.48" fill="#fff"/>
+            </g>
+          </g>
+          <rect id="矩形_247" data-name="矩形 247" width="24.28" height="79.71" transform="translate(247.31 76.76)" fill="#fff"/>
+        </g>
+        <g id="组_683" data-name="组 683">
+          <path id="路径_114" data-name="路径 114" d="M180.33,263.9h25.46V78.63a25.461,25.461,0,0,0-25.46-25.46h0" fill="#2e3c5b"/>
+          <path id="路径_115" data-name="路径 115" d="M180.33,263.9H154.87V78.63a25.461,25.461,0,0,1,25.46-25.46h0" fill="#37c9f7"/>
+          <path id="路径_116" data-name="路径 116" d="M180.33,263.9H154.87l19.87,39.49a6.2,6.2,0,0,0,5.59,3.45" fill="#314060"/>
+          <g id="组_680" data-name="组 680">
+            <g id="组_679" data-name="组 679" clip-path="url(#clip-path-4)">
+              <path id="路径_117" data-name="路径 117" d="M180.33,306.84H165.85V292.36h14.48" fill="#fff"/>
+            </g>
+          </g>
+          <path id="路径_119" data-name="路径 119" d="M180.33,263.9h25.46l-19.87,39.49a6.2,6.2,0,0,1-5.59,3.45" fill="#213049"/>
+          <g id="组_682" data-name="组 682">
+            <g id="组_681" data-name="组 681" clip-path="url(#clip-path-5)">
+              <path id="路径_120" data-name="路径 120" d="M180.33,306.84h14.48V292.36H180.33" fill="#fff"/>
+            </g>
+          </g>
+          <path id="路径_122" data-name="路径 122" d="M180.33,263.9H154.87V78.63a25.461,25.461,0,0,1,25.46-25.46h0" fill="#49577c"/>
+          <rect id="矩形_248" data-name="矩形 248" width="18.61" height="79.71" transform="translate(180.33 76.76)" fill="#e0e0e0"/>
+          <rect id="矩形_249" data-name="矩形 249" width="5.67" height="79.71" transform="translate(174.66 76.76)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

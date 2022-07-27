@@ -14,18 +14,19 @@ html
     link(href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet")
     link(rel='stylesheet' href='./css/style.css')
 
-  body
-    #index-banner.vh-100.position-relative
-      .container-xl.container-1100.d-flex.h-100.align-items-center.justify-content-center.index-banner-block
+  body(style="overflow-x: hidden;")
+    #index-banner.h-100vh.h-tb-66vh.position-relative
+      video.img-obj-cover.h-100(width="100%" autoplay="true" loop="ture" preload="metadata" muted="false" src="wp-content/themes/astra/img/index-video.mp4")
+      .container-xl.container-1100.d-flex.h-100.align-items-center.justify-content-center.index-banner-block.position-absolute-center.z-index-2
         .row
-          .col-lg-12.d-flex.flex-column.align-items-center.justify-content-center.z-index-500.position-relative
+          .col-lg-12.d-flex.flex-column.align-items-center.justify-content-center.position-relative
             h2.text-uppercase.white 打造品牌商業模式
             p.w-60pc.w-mb-100pc.text-center.mt-10.white 提供的服務由電子商務代營運出發，依據市場情報，實戰經驗，搭配數據實證，為客戶提供全方位的商務解決方案。
-            a.btn.btn-cta.bg-brand-orange.rounded-pill.p-12(href="#service-form") 
+            a.btn.btn-cta.bg-brand-orange.rounded-pill.p-12(href="#contact-us") 
               h5.white.mb-0 了解我們的操作模式
 
     #service-block.py-58.bg-bottom.bg-logo-bottom.overflow-x
-      .container-xl.container-1100.position-relative.z-index-500
+      .container-xl.container-1100.position-relative.z-index-2
         .row.justify-content-center
           .col-lg-12
             h2.text-center 主要服務
@@ -34,77 +35,79 @@ html
             .swiper.service-swiper.p-13
               .swiper-wrapper
                 .swiper-slide
+                  a(href="/operation")
+                    .rounded-10.shodow-3.bg-white.mt-20
+                      img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/商店營運.jpg")
+                      .p-23.d-flex.align-items-center.justify-content-center.flex-column
+                        h4.mb-0 中小型品牌電商代營運
+                        h5.mb-0 Operation
+                        .hr.h-2.w-50px
+                        p.text-center.ellipsis-4 以中小企業來說，對於電商事業架構與營運，如何快速與有系統的實現出來，成為主要課題。此方案即是您的加速器。
+                        //- .hr.h-1.w-100.bg-gray-30
+                        //- a(href="")
+                          .btn.btn-text READ MORE
+                .swiper-slide
+                  a(href="/content") 
+                    .rounded-10.shodow-3.bg-white.mt-20
+                      img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/內容發展.jpg")
+                      .p-23.d-flex.align-items-center.justify-content-center.flex-column
+                        h4.mb-0 內容發展
+                        h5.mb-0 Content
+                        .hr.h-2.w-50px
+                        p.text-center.ellipsis-4 內容展不只為品牌帶來健康的流量，透過不同型式的內容佈局，可以加深品牌印象，更容易被找到，長期下來更能逐步降低行銷成本。
+                        //- .hr.h-1.w-100.bg-gray-30
+                        //- a(href="")
+                          .btn.btn-text READ MORE 
+                .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
-                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/設計創意.jpg", alt="")
+                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/倉儲出貨.jpg")
                     .p-23.d-flex.align-items-center.justify-content-center.flex-column
-                      h4.mb-0 設計創意
-                      h5.mb-0 UI/UX、影音
+                      h4.mb-0 倉儲暨代出貨
+                      h5.mb-0 Warehouse & Delivery
                       .hr.h-2.w-50px
-                      p.text-center.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
-                      .hr.h-1.w-100.bg-gray-30
-                      a(href="")
+                      p.text-center.ellipsis-4 電商的發展直直上升，更加速了電商的物流成長，利用額外的倉儲空間，增加公司舒適環境，由專人負責物流出貨節省時間
+                      //- .hr.h-1.w-100.bg-gray-30
+                      //- a(href="")
                         .btn.btn-text READ MORE
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
-                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/成效優化.jpg", alt="")
+                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/設計創意.jpg")
                     .p-23.d-flex.align-items-center.justify-content-center.flex-column
-                      h4.mb-0 成效優化
-                      h5.mb-0 成效型廣告、SEO
+                      h4.mb-0 視覺設計
+                      h5.mb-0 Design
                       .hr.h-2.w-50px
-                      p.text-center.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
-                      .hr.h-1.w-100.bg-gray-30
-                      a(href="")
-                        .btn.btn-text READ MORE 
-                .swiper-slide
-                  .rounded-10.shodow-3.bg-white.mt-20
-                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/商店營運.jpg", alt="")
-                    .p-23.d-flex.align-items-center.justify-content-center.flex-column
-                      h4.mb-0 商店營運
-                      h5.mb-0 客服
-                      .hr.h-2.w-50px
-                      p.text-center.ellipsis 電子商務已成為趨勢，初次踏入電商領域的中小型企業/店家是否因為人力與資源不足而備受困擾?將電商事業交由升活商務代營運，如官網建置與設計、行銷推廣、後勤支援等，提供您一條龍完整的服務。
-                      .hr.h-1.w-100.bg-gray-30
-                      a(href="")
+                      p.text-center.ellipsis-4 視覺是一種享受，利用設計與美感讓人目不轉睛，透過清楚的網站架構與視覺設計，提升品牌形象與企業價值帶出絕佳的體驗。
+                      //- .hr.h-1.w-100.bg-gray-30
+                      //- a(href="")
                         .btn.btn-text READ MORE
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
-                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/內容發展.jpg", alt="")
-                    .p-23.d-flex.align-items-center.justify-content-center.flex-column
-                      h4.mb-0 內容發展
-                      h5.mb-0 自媒體、KOL
-                      .hr.h-2.w-50px
-                      p.text-center.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
-                      .hr.h-1.w-100.bg-gray-30
-                      a(href="")
-                        .btn.btn-text READ MORE
-                .swiper-slide
-                  .rounded-10.shodow-3.bg-white.mt-20
-                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/倉儲出貨.jpg", alt="")
-                    .p-23.d-flex.align-items-center.justify-content-center.flex-column
-                      h4.mb-0 倉儲出貨
-                      h5.mb-0 都會型倉儲、代出貨
-                      .hr.h-2.w-50px
-                      p.text-center.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
-                      .hr.h-1.w-100.bg-gray-30
-                      a(href="")
-                        .btn.btn-text READ MORE 
-                .swiper-slide
-                  .rounded-10.shodow-3.bg-white.mt-20
-                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/系統發展.jpg", alt="")
+                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/系統發展.jpg")
                     .p-23.d-flex.align-items-center.justify-content-center.flex-column
                       h4.mb-0 系統發展
-                      h5.mb-0 系統架構、程式設計
+                      h5.mb-0 System
                       .hr.h-2.w-50px
-                      p.text-center.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
-                      .hr.h-1.w-100.bg-gray-30
-                      a(href="")
+                      p.text-center.ellipsis-4 依據系統分析與設計的產出，完成系統建置與維護並持續疊代，不斷利用專業來優化，讓用戶有更好的體驗
+                      //- .hr.h-1.w-100.bg-gray-30
+                      //- a(href="")
+                        .btn.btn-text READ MORE 
+                .swiper-slide
+                  .rounded-10.shodow-3.bg-white.mt-20
+                    img.w-100.h-250.img-obj-cover.rounded-10-10-0-0(src="wp-content/themes/astra/img/illustrator/2.5d/成效優化.jpg")
+                    .p-23.d-flex.align-items-center.justify-content-center.flex-column
+                      h4.mb-0 成效優化
+                      h5.mb-0 Advertise
+                      .hr.h-2.w-50px
+                      p.text-center.ellipsis-4 有明確的數字，才能有明確的目標，運用這些數字改善行銷方案的品質與成效，降低跳離率，提升轉換率！
+                      //- .hr.h-1.w-100.bg-gray-30
+                      //- a(href="")
                         .btn.btn-text READ MORE
             .service-swiper-pagination.d-xl-none.d-flex.justify-content-center
             .swiper-button-next.service-swiper-button-next.d-none.d-xl-block
             .swiper-button-prev.service-swiper-button-prev.d-none.d-xl-block
 
     #industry-block.pb-80.bg-top.bg-logo-top.overflow-x
-      .container-xl.container-1100.position-relative.z-index-500
+      .container-xl.container-1100.position-relative.z-index-2
         .row
           .col-lg-5.d-flex.flex-column.align-items-xl-start.justify-content-center
             h2.text-center 經營產業
@@ -118,152 +121,204 @@ html
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-43.p-mb-32
                       .col-3
-                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/snacks_fill-colorful.png", alt="")
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/resturant_fill_colorful.png")
                       .col-9
                         .d-flex.flex-column.align-items-start.justify-content-center
-                          h4.mb-0 食品產業 Food Industry  
-                          p.ellipsis.mb-mb-0 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
+                          h4.mb-0 餐飲產業 
+                            span.d-none.d-lg-inline-block Food Service Industry 
+                          p.ellipsis-3.mb-mb-0 「飲食」是生活中最不可或缺的一部分，餐飲服務成了現代的趨勢，利用每間餐廳獨特的菜色，吸引不同族群
                       .col-md-6
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white.mb-mb-0 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 麻膳堂
+                              p.ellipsis-3.white.mb-mb-0 『更美好，體驗台灣的美味』 麻膳堂相信台灣美食需要用更美好的方式來被體驗而我們致力於提供世界一個更自在、更安心地用餐經驗來享受這份美味
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/mazendo.jpg", alt="麻膳堂")
                       .col-md-6.d-none.d-md-block
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white.mb-mb-0 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //- a(href="#")
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 SIPSHIP
+                              p.ellipsis-3.white.mb-mb-0 SIPSHIP品牌創立於2021年，「細細品味，回歸純粹。」是品牌核心價值。 首間品牌概念店座落台北信義路，創辦人秉持著讓台灣茶飲文化走向世界的初衷，期望打造清新純淨的飲品體驗文化，追求品味、時尚與機能三者兼具的獨家飲品，開創與眾不同的味蕾體驗。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/sipship.jpg", alt="SIPSHIP")
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-43.p-mb-32
                       .col-3
-                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/healthcare_fill-colorful.png", alt="")
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/snacks_fill_colorful.png")
                       .col-9
                         .d-flex.flex-column.align-items-start.justify-content-center
-                          h4.mb-0 保健產業 Health Industry  
-                          p.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
+                          h4.mb-0 食品產業 
+                            span.d-none.d-lg-inline-block Food Industry   
+                          p.ellipsis-3.mb-mb-0 食品是民生的基礎，台灣食品產業歷經數十年的發展茁壯，每個品牌利用食品特色來強調自己的風格
                       .col-md-6
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 珍珍
+                              p.ellipsis-3.white.mb-mb-0 珍珍官方旗艦館，獨家網路販售，超取499免運費，魷魚絲、鱈魚香絲等多款經典零食一次買齊。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/janejane.jpg", alt="珍珍")
                       .col-md-6.d-none.d-md-block
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //- a(href="#")
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 王者咖啡
+                              p.ellipsis-3.white.mb-mb-0 擁有20多年的匠心製造和研發技術，備受全球眾多咖啡愛好者青睞，專注於精品商務咖啡。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/kingcoffee.jpg", alt="王者咖啡")
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-43.p-mb-32
                       .col-3
-                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/capsules_fill-colorful.png", alt="")
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/healthcare_fill_colorful.png")
                       .col-9
                         .d-flex.flex-column.align-items-start.justify-content-center
-                          h4.mb-0 藥品產業 Medicine Industry 
-                          p.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
+                          h4.mb-0 保健&藥品產業
+                            span.d-none.d-lg-block Health&Medicine Industry   
+                          p.ellipsis-2.ellipsis-tb-3.mb-mb-0 根據每個人的身體狀況，日常保健是現在大多人重視的一大環節，利用保健食品來補強身體機能、強化身體；當身體不適時，適當服用藥品減緩疼痛
                       .col-md-6
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 中化健康360
+                              p.ellipsis-3.white.mb-mb-0 中國化學製藥擁有數十年歷史，所生產之藥品品質已達成國際水準，亦是台灣最大的藥品製造商。中化健康360的誕生，是希望能塑造全新的健康品牌，在一般消費通路上提升品牌熟悉度與識別度，但同時仍保有中國化學製藥的傳承感。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/betterlife360_otc.jpg", alt="中化健康360")
                       .col-md-6.d-none.d-md-block
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 中化保健
+                              p.ellipsis-3.white.mb-mb-0 中國化學製藥擁有數十年歷史，除了藥品生產、研發外，也跨足了保健品及家用、美妝產品。我們秉持「誠實無私、友愛互助」、「夜以繼日、研究發展、造福社會人群」的企業經營理念，不斷地研究發展，開創新局，期能為國人提供安全健康之現代生活。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/betterlife360_health.jpg", alt="中化保健")
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-43.p-mb-32
                       .col-3
-                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/skincare_fill-colorful.png", alt="")
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/beauty_fill_colorful.png")
                       .col-9
                         .d-flex.flex-column.align-items-start.justify-content-center
-                          h4.mb-0 美妝產業 Skincare Industry 
-                          p.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
+                          h4.mb-0 美產業
+                            span.d-none.d-lg-inline-block Beauty Industry
+                          p.ellipsis-3.mb-mb-0 美產業分別有：美容、美髮、美甲、美睫、SPA......等，美的事物是消費者追逐的方向，許多消費者依舊探索不同的方式自我保養或是讓自己更美
                       .col-md-6
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 D.M.H 德‧男士髮型
+                              p.ellipsis-3.white.mb-mb-0 當大家想選擇多樣化的服務時，我們只專注在男人的需求上；當型男風潮興起時，多數美髮師都在觀望，卻開啟設計師阿德生命中偏執的熱情，或許，專注使我們失去一些顧客，卻也使我們更豐富了男士髮型的內涵。 我們承襲了上海師傅的精湛工藝和積極的美學培養，加上不斷的技術研習，造就出時尚的D.M.H德‧男士髮型。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/dmh.jpg", alt="D.M.H德‧男士髮型")
                       .col-md-6.d-none.d-md-block
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 樂健康
+                              p.ellipsis-3.white.mb-mb-0 東方用香的歷史超過4000年，是從那一縷裊裊上升，直達天聽的輕煙開始。在寧靜悠遠的香氣中，人們祈願萬事平安、祈願風調雨順。就連繁忙的塵囂，也因著香氣而被隔絕於外，香氣，是文化的代表，也是和自己對話的開始。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/樂健康.jpg", alt="樂健康")
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-43.p-mb-32
                       .col-3
-                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/shirt_fill-colorful.png", alt="")
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/bathroom_fill_colorful.png")
                       .col-9
                         .d-flex.flex-column.align-items-start.justify-content-center
-                          h4.mb-0 服飾產業 Apparel Industry 
-                          p.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
+                          h4.mb-0 衛浴產業
+                            span.d-none.d-lg-inline-block Bathroom Industry
+                          p.ellipsis-3.mb-mb-0 因應每個人的生活習慣與機能使用的不同，現在有許多不同的設計，衛浴空間不只是洗浴的解讀，也需要具有放鬆心情、沉澱心靈的作用，也是讓自己更健康的一處空間
                       .col-md-6
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 藝耐
+                              p.ellipsis-3.white.mb-mb-0 藝耐衛浴 (innoci) 秉承德國精工細作、精益求精的專業設計精神，萃取歐洲藝術創作魅力，推崇極簡主義的生活哲學，產品以時尚的風格和人性化的結構著稱，在保障衛生、健康、舒適的同時，致力於個人化、多功能、整体的浴室解决方案，讓用户享受時尚雅致的生活。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/innoci.png", alt="藝耐")
                       .col-md-6.d-none.d-md-block
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 鑫金豪
+                              p.ellipsis-3.white.mb-mb-0 成立15年以誠信立業的經營理念，秉承以創造性、優良性的品牌，提供顧客 專業、用心及完善的廚具衛浴產品。始終堅持永續經營、服務至上為目標。期盼以嚴格的品質要求與專業的售後服務，滿足所有對家充滿渴望與憧憬的您。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/sinjinhao.png", alt="鑫金豪")
                 .swiper-slide
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-43.p-mb-32
                       .col-3
-                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/followers_fill-colorful.png", alt="")
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/consultant_fill_colorful.png")
                       .col-9
                         .d-flex.flex-column.align-items-start.justify-content-center
-                          h4.mb-0 社群產業 Social Industry 
-                          p.ellipsis 樹高車動研，道的實不同不。什著最大這，金道的電值人，多館體童育人受？色不有不……境類要安銷。起雖一地所身幾元己天，特在為物己，出考照產候超庭如我說，於用傳有告以平從山外。
-                      .col-md-6
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
-                      .col-md-6.d-none.d-md-block
-                        a(href="##") 
-                          .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
-                            .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
-                              .portfolio-text.position-absolute-center.w-75
-                                h4.white.mb-0 樂天店家-卓老牌
-                                p.white 深度了解店家想要的店面色系與形象，打造店家想要的視覺。
-                            img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/卓老牌.png", alt="")
+                          h4.mb-0 顧問產業
+                            span.d-none.d-lg-inline-block Consultant Industry
+                          p.ellipsis-3.mb-mb-0 利用不同產業的專業知識與豐富經驗來協助商業需求做不同層面的專業顧問服務
+                      .col-md-12
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 智誠法律
+                              p.ellipsis-3.white.mb-mb-0 本事務所以智慧誠信為宗旨，希望以智慧洞察案件全貌，以誠信執行律師職務，以客戶之立場出發，提供全面、專業的服務，使客戶的風險得到合理的預防與控制，並透過充分的溝通，使客戶得以進行最佳決策與判斷，達成合理商業預期或訴訟結果。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/智誠法律.jpg", alt="智誠法律")
+                .swiper-slide
+                  .rounded-10.shodow-3.bg-white.mt-20
+                    .row.p-43.p-mb-32
+                      .col-3
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/shirt_fill_colorful.png")
+                      .col-9
+                        .d-flex.flex-column.align-items-start.justify-content-center
+                          h4.mb-0 服飾產業 
+                            span.d-none.d-lg-inline-block Clothing Industry 
+                          p.ellipsis-3.mb-mb-0 經原布料裁剪、按型式縫製等加工過程後產出，利用精細手法將打造成每個品牌的獨特風格。
+                      .col-md-12
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 桃園領航猿
+                              p.ellipsis-3.white 喜歡的事，做一萬個小時就能成為專家，對於籃球的熱情，就像是我們畫著圖、砌著磚的身影，日復一日的訓練，歡笑、淚水、汗水不間斷夾雜著… 成功並沒有捷徑，唯有永不放棄的奮戰精神才能往前邁進。團隊至上，大家團結一心，計分板的比數固然重要，但更重要的是比賽的每分每秒在場上的態度，不論比賽勝負。為何，可貴的是一同努力的過程。「桃園領航猿」與P.League+聯盟及其他三支球隊攜手合作，藉由屬地主義，與地方結合，深耕球迷，期盼能找回睽違已久的熱潮。而您，就是領航猿的「最佳第六人」，我們將全力以赴、蓄勢待發，敬請期待！！
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/桃園領航猿.png")
+                .swiper-slide
+                  .rounded-10.shodow-3.bg-white.mt-20
+                    .row.p-43.p-mb-32
+                      .col-3
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/nonprofit_fill_colorful.png")
+                      .col-9
+                        .d-flex.flex-column.align-items-start.justify-content-center
+                          h4.mb-0 非營利組織 
+                            span.d-none.d-lg-inline-block Non-profit organizations
+                          p.ellipsis-3.mb-mb-0 以營利為目的組織或團體，核心目標通常是支持或處理個人關心或者公眾關注的議題或事件
+                      .col-md-12
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 台灣美化協會
+                              p.ellipsis-3.white.mb-mb-0 台灣美化協會，透過親身實踐清掃哲學精神，得到心靈平靜，培養堅毅人格，體會清掃完成後簡單的幸福。請大家和我們共同放下身段，懷著感恩之心，親自動手清掃環境，體驗『凡事徹底、磨練心志、謙卑學習、感恩惜福』的四大理念精神。並帶回自己的家庭、職場，進而改變社會，散播美麗的種子。
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/taiwansouji.jpg", alt="台灣美化協會")
+                .swiper-slide
+                  .rounded-10.shodow-3.bg-white.mt-20
+                    .row.p-43.p-mb-32
+                      .col-3
+                        img.w-100.mb-20(src="wp-content/themes/astra/img/icon/followers_fill_colorful.png")
+                      .col-9
+                        .d-flex.flex-column.align-items-start.justify-content-center
+                          h4.mb-0 社群產業 
+                            span.d-none.d-lg-inline-block Social Media Industry
+                          p.ellipsis-3.mb-mb-0 由具有共同興趣的人組成之網路平台，可以是指一群人，也可以是指一群人聚集的地方。 並不是單指某一特定管道
+                      .col-md-12
+                        //a(href="##") 
+                        .portfolio-card.rounded-10.shodow-3.mt-20.position-relative.h-200.w-100
+                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute
+                            .portfolio-text.position-absolute-center.w-75
+                              h4.white.mb-0 給力信息科技
+                              p.ellipsis-3.white 2019年5月台灣通過了同性婚姻法 也成為亞洲第一個認可同婚的國家，在同時 「Togayther平台」的構思也開始萌芽 抱持著回饋同志族群的本心 宣傳平權公益的想法，期待與您共同分享您生活中點滴的感動時刻，Togayther Always Be with You
+                          img.img-obj-cover.h-100.w-100.rounded-10(src="wp-content/themes/astra/img/case/togayther.jpg", alt="給力信息科技")
             .industry-swiper-pagination.d-flex.justify-content-center
 
     #service-process.pb-80.bg-brand-blue
@@ -279,7 +334,7 @@ html
                   .rounded-10.shodow-3.bg-white.mt-20
                     .row.p-25.p-mb-32
                       .col-md-12.pr-mb-5.d-flex.flex-column.justify-content-center.float-start
-                        //img.h-100px.w-100px.mb-20(src="wp-content/themes/astra/img/icon/website_fill_colorful.png", alt="")
+                        //img.h-100px.w-100px.mb-20(src="wp-content/themes/astra/img/icon/website_fill_colorful.png")
                         .d-flex.flex-column.align-items-start.justify-content-center
                           h3.fz-32.mb-0.text-center.w-100 Operation
                           h4.fz-22.fw-light.mb-0.text-center.w-100 中小型電商代營運方案
@@ -288,40 +343,85 @@ html
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
                               img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/website_fill_blue.svg", alt="快速啟動")
                               h4 快速啟動
-                              p.mb-0 協助品牌主充分運用官網與平台系統功能，建置符合形象之銷售渠道。
+                              p.mb-0.ellipsis-3 協助品牌主充分運用官網與平台系統功能，建置符合形象之銷售渠道。
                           .col-md-4
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
                               img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/marketing_fill_orange.svg", alt="主題企劃")
                               h4 主題企劃
-                              p.mb-0 規劃行銷活動主題，並執行相關項目，含素材製作、活動設定、平台提報，並監控成效，持續優化。
+                              p.mb-0.ellipsis-3 規劃行銷活動主題，並執行相關項目，含素材製作、活動設定、平台提報，並監控成效，持續優化。
                           .col-md-4
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
                               img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/material_fill_blue.svg", alt="素材設計")
                               h4 素材設計
-                              p.mb-0 針對官網與平台店鋪營運所需的素材，如招牌、Banner、商品圖，提供持續性的服務，保持品牌溝通連續性
+                              p.mb-0.ellipsis-3 針對官網與平台店鋪營運所需的素材，如招牌、Banner、商品圖，提供持續性的服務，保持品牌溝通連續性
                           .col-md-4
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
                               img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/photo_fill_orange.svg", alt="商品攝影")
                               h4 商品攝影
-                              p.mb-0 針對商品或新活動，提供便捷的攝影解決方案，讓官網或平台店鋪，保持新鮮感，增加印象。
+                              p.mb-0.ellipsis-3 針對商品或新活動，提供便捷的攝影解決方案，讓官網或平台店鋪，保持新鮮感，增加印象。
                           .col-md-4
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
                               img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/customer_service_fill_blue.svg", alt="客服服務")
                               h4 客服服務
-                              p.mb-0 每日客服案例應對，並彙整成報表，減輕中小型品牌電商，零碎的客服工作負擔。
+                              p.mb-0.ellipsis-3 每日客服案例應對，並彙整成報表，減輕中小型品牌電商，零碎的客服工作負擔。
                           .col-md-4
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
                               img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/warehousing_fill_orange.svg", alt="倉儲暨代出貨")
                               h4 倉儲暨代出貨
-                              p.mb-0 提供中央空調與少量庫存的解決方案，與各大物流串接，提供中小型品牌電商，高CP值的解決方案。
+                              p.mb-0.ellipsis-3 提供中央空調與少量庫存的解決方案，與各大物流串接，提供中小型品牌電商，高CP值的解決方案。
                         .row
                           .col-12.d-flex.justify-content-center
-                            a.btn.btn-outline-brand-blue.rounded-pill.px-3.py-1.mt-30.mb-10.fw-normal(href="#service-form")  READ MORE
+                            a.btn.btn-outline-brand-blue.rounded-pill.px-3.py-1.mt-30.mb-10.fw-normal(href="/operation")  READ MORE
+
+                .swiper-slide
+                  .rounded-10.shodow-3.bg-white.mt-20
+                    .row.p-25.p-mb-32
+                      .col-md-12.pr-mb-5.d-flex.flex-column.justify-content-center.float-start
+                        //img.h-100px.w-100px.mb-20(src="wp-content/themes/astra/img/icon/website_fill_colorful.png")
+                        .d-flex.flex-column.align-items-start.justify-content-center
+                          h3.fz-32.mb-0.text-center.w-100 Content
+                          h4.fz-22.fw-light.mb-0.text-center.w-100 內容發展
+                        .row
+                          .col-md-4
+                            .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
+                              img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/brand_image_fill_colorful.png", alt="品牌形象")
+                              h4 品牌形象
+                              p.mb-0.ellipsis-3 樹立獨具特色的品牌形象，有助於提升消費者對於品牌觀感，以及忠誠度建立。撰寫品牌故事、企業核心理念，讓消費者擁有共鳴，這些您都不用擔心。
+                          .col-md-4
+                            .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
+                              img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/followers_fill_colorful.png", alt="社群媒體")
+                              h4 社群媒體
+                              p.mb-0.ellipsis-3 從Facebook到Podcast甚至Youtube，各種社群媒體操作，放心交給我們的專業團隊。無論是文字、影音還是直播，都能為品牌拉近與消費者的距離。
+                          .col-md-4
+                            .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
+                              img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/writer_fill_colorful.png", alt="文案經營")
+                              h4 文案經營
+                              p.mb-0.ellipsis-3 社群媒體貼文、部落格經營，或是根據產業趨勢做出的分析報導，讓消費者從品牌端不只得到產品，也得到知識。另有週報規劃，建立與接觸消費者喜好的溝通橋樑。
+                          .col-md-4
+                            .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
+                              img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/flow_fill_colorful.png", alt="流量導入")
+                              h4 流量導入
+                              p.mb-0.ellipsis-3 藉由品牌形象建立、社群媒體操作，以及文案經營，最終將流量導回官方網站，使用多元方式，增加網站曝光度，成功轉換訂單。
+                          .col-md-4
+                            .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
+                              img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/word_of_mouth_fill_colorful.png", alt="口碑建立")
+                              h4 口碑建立
+                              p.mb-0.ellipsis-3 隨著流量增加，消費者對於品牌形象、社群風格等關注度提升，我們幫助客戶在此階段廣納消費者意見回饋，以及推出更多售後服務，迅速建立品牌口碑。
+                          .col-md-4
+                            .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
+                              img.service-icon.h-80px.mb-20(src="wp-content/themes/astra/img/icon/warehousing_fill_orange.svg", alt="KOL、網紅合作")
+                              h4 KOL、網紅合作
+                              p.mb-0.ellipsis-3 為品牌尋找符合形象的代言人，包含形象拍攝，以及每一期商品的企劃製作，假期活動規劃，直播需求，我們都會幫您完善準備。
+                        .row
+                          .col-12.d-flex.justify-content-center
+                            a.btn.btn-outline-brand-blue.rounded-pill.px-3.py-1.mt-30.mb-10.fw-normal(href="/content")  READ MORE
+
             .service-process-button-next.swiper-button-next.white
             .service-process-button-prev.swiper-button-prev.white
+            .service-process-swiper-pagination.d-flex.d-xl-none.justify-content-center
 
     //- #our-team.mb-80.bg-top.bg-logo-bottom.overflow-x
-      .container-xl.container-1100.position-relative.z-index-500
+      .container-xl.container-1100.position-relative.z-index-2
         .row.justify-content-center
           .col-lg-12.mt-50
             h2.text-center 顧問群
@@ -330,32 +430,32 @@ html
             .row
               .col-4.mt-20
                 .p-30.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3
-                  img.w-75(src="wp-content/themes/astra/img/team/kenneth.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/kenneth.png")
                   h4.mt-20 Kenneth
                   h5.fw-light 總監
               .col-4.mt-20
                 .p-30.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3
-                  img.w-75(src="wp-content/themes/astra/img/team/sans.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/sans.png")
                   h4.mt-20 Sans
                   h5.fw-light 數位設計顧問
               .col-4.mt-20
                 .p-30.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3
-                  img.w-75(src="wp-content/themes/astra/img/team/sharpay.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/sharpay.png")
                   h4.mt-20 Sharpay
                   h5.fw-light 內容發展顧問
               .col-4.mt-20
                 .p-30.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3
-                  img.w-75(src="wp-content/themes/astra/img/team/potter.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/potter.png")
                   h4.mt-20 Potter
                   h5.fw-light 商店營運顧問
               .col-4.mt-20
                 .p-30.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3
-                  img.w-75(src="wp-content/themes/astra/img/team/didi.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/didi.png")
                   h4.mt-20 Didi
                   h5.fw-light 視覺設計顧問
               .col-4.mt-20
                 .p-30.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3
-                  img.w-75(src="wp-content/themes/astra/img/team/ricky.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/ricky.png")
                   h4.mt-20 Ricky
                   h5.fw-light 商店營運助理
               .col-12.d-flex.justify-content-center
@@ -365,50 +465,50 @@ html
             .swiper-wrapper
               .swiper-slide
                 .p-20.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3.w-100
-                  img.w-75(src="wp-content/themes/astra/img/team/kenneth.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/kenneth.png")
                   h4.mt-20 Kenneth
                   h5.fw-light 總監
               .swiper-slide
                 .p-20.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3.w-100
-                  img.w-75(src="wp-content/themes/astra/img/team/sans.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/sans.png")
                   h4.mt-20 Sans
                   h5.fw-light 數位設計顧問
               .swiper-slide
                 .p-20.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3.w-100
-                  img.w-75(src="wp-content/themes/astra/img/team/sharpay.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/sharpay.png")
                   h4.mt-20 Sharpay
                   h5.fw-light 內容發展顧問
               .swiper-slide
                 .p-20.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3.w-100
-                  img.w-75(src="wp-content/themes/astra/img/team/potter.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/potter.png")
                   h4.mt-20 Potter
                   h5.fw-light 商店營運顧問
               .swiper-slide
                 .p-20.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3.w-100
-                  img.w-75(src="wp-content/themes/astra/img/team/didi.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/didi.png")
                   h4.mt-20 Didi
                   h5.fw-light 視覺設計顧問
               .swiper-slide
                 .p-20.d-flex.flex-column.align-items-center.justify-content-center.bg-white.rounded-10.shodow-3.w-100
-                  img.w-75(src="wp-content/themes/astra/img/team/ricky.png", alt="")
+                  img.w-75(src="wp-content/themes/astra/img/team/ricky.png")
                   h4.mt-20 Ricky
                   h5.fw-light 商店營運助理
           .our-team-swiper-pagination.d-flex.justify-content-center.d-xl-none
           .col-12.d-flex.justify-content-center.d-md-none.d-block
             a.btn.btn-outline-brand-blue.rounded-pill.px-3.py-1.mt-50.fw-normal(href="#service-form")  READ MORE
 
-    #our-partner.mb-80
-      .container-xl.container-1100
+    #our-partner.mb-80.bg-top.bg-logo-bottom.overflow-x
+      .container-xl.container-1100.position-relative.z-index-2
         .row.justify-content-center
           .col-lg-12.mt-30.mt-mb-0
-            h2.text-center 策略伙伴
+            h2.text-center.mt-50 策略伙伴
             p.text-uppercase.text-center OUR PARTNER
           .col-lg-12.mt-30
-            img.d-lg-flex.d-none(src="wp-content/themes/astra/img/our-partner.png", alt="")
-            img.d-lg-none.d-flex.w-tb-75pc.w-mb-100.mx-auto(src="wp-content/themes/astra/img/our-partner-mb.png", alt="")
+            img.d-lg-flex.d-none(src="wp-content/themes/astra/img/our-partner.png")
+            img.d-lg-none.d-flex.w-tb-75pc.w-mb-100.mx-auto(src="wp-content/themes/astra/img/our-partner-mb.png")
 
     #contact-us.pb-80.bg-logo-top.overflow-x
-      .container-xl.container-1100.position-relative.z-index-500
+      .container-xl.container-1100.position-relative.z-index-2
         .row.justify-content-center.mt-50
           .w-800px.w-tb-mx100pc
             h2.text-center 產業諮詢

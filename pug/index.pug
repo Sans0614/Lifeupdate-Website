@@ -16,13 +16,14 @@ html
 
   body(style="overflow-x: hidden;")
     #index-banner.h-100vh.h-tb-66vh.position-relative
-      video.img-obj-cover.h-100(width="100%" autoplay="true" loop="ture" preload="metadata" muted="false" src="wp-content/themes/astra/img/index-video.mp4")
+      video.img-obj-cover.h-100(width="100%" autoplay="true" loop="ture" preload="metadata" muted="false" src="wp-content/themes/astra/img/index-video.mp4" poster="wp-content/themes/astra/img/index-video.jpg")
+      //- iframe.img-obj-cover(width="100%" height="100%" src="https://www.youtube.com/embed/ijZEW8q7pJQ?controls=0&autoplay=1&mute=1&modestbranding=1&autohide=0&rel=0&loop=1&playlist=ijZEW8q7pJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .container-xl.container-1100.d-flex.h-100.align-items-center.justify-content-center.index-banner-block.position-absolute-center.z-index-2
         .row
           .col-lg-12.d-flex.flex-column.align-items-center.justify-content-center.position-relative
             h2.text-uppercase.white 打造品牌商業模式
             p.w-60pc.w-mb-100pc.text-center.mt-10.white 提供的服務由電子商務代營運出發，依據市場情報，實戰經驗，搭配數據實證，為客戶提供全方位的商務解決方案。
-            a.btn.btn-cta.bg-brand-orange.rounded-pill.p-12(href="#contact-us") 
+            a.btn.btn-cta.bg-brand-orange.rounded-pill.p-12.mt-10(href="#contact-us") 
               h5.white.mb-0 了解我們的操作模式
 
     #service-block.py-58.bg-bottom.bg-logo-bottom.overflow-x
@@ -380,7 +381,7 @@ html
                         //img.h-100px.w-100px.mb-20(src="wp-content/themes/astra/img/icon/website_fill_colorful.png")
                         .d-flex.flex-column.align-items-start.justify-content-center
                           h3.fz-32.mb-0.text-center.w-100 Content
-                          h4.fz-22.fw-light.mb-0.text-center.w-100 內容發展
+                          h4.fz-22.fw-light.mb-0.text-center.w-100 社群代營運服務
                         .row
                           .col-md-4
                             .process-card.rounded-10.shodow-3.p-20.bg-white.mt-20.p-mb-20
@@ -516,7 +517,7 @@ html
             .title-hr.mx-auto
             p.text-center 電子商務已成為趨勢，初次踏入電商領域的中小型企業/店家是否因為人力與資源不足而備受困擾 ?<span style="color: #FF0000;">   現在就聯絡我們，立即解決你電子商務的所有困擾 !</span>
           .col-lg-12.mt-30.d-flex.justify-content-center
-            form.bg-white.rounded-10.shodow-10.p-30.w-800px.w-tb-mx100pc
+            .bg-white.rounded-10.shodow-10.p-30.w-800px.w-tb-mx100pc
               //[contact-form-7 id="16" title="首頁聯絡表單"]
               .mb-15
                 input.input-blue-95.w-100.p-12.rounded-10(placeholder="您的姓名*")
@@ -540,11 +541,6 @@ html
               .mt-20
                 .btn-cta.w-100.p-12.text-center.bg-brand-blue.rounded-10.white 寄出
                 // input.btn-cta.w-100.p-12.text-center.bg-brand-blue.rounded-10.white[submit "寄出"] 
-
-
-
-
-
 
 
     script(src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous")

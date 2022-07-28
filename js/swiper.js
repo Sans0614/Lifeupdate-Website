@@ -33,22 +33,22 @@ var swiper = new Swiper(".industry-swiper", {
   },
 });
 
+var swiper = new Swiper(".food-service-industry-swiper", {
+  slidesPerView: 1,
+  spaceBetween: 30,
+  loop: true,
+  pagination: {
+    el: ".food-service-industry-swiper-pagination",
+    clickable: true,
+  },
+});
+
 var swiper = new Swiper(".food-industry-swiper", {
   slidesPerView: 1,
   spaceBetween: 30,
   loop: true,
   pagination: {
     el: ".food-industry-swiper-pagination",
-    clickable: true,
-  },
-});
-
-var swiper = new Swiper(".health-industry-swiper", {
-  slidesPerView: 1,
-  spaceBetween: 30,
-  loop: true,
-  pagination: {
-    el: ".health-industry-swiper-pagination",
     clickable: true,
   },
 });
@@ -63,22 +63,22 @@ var swiper = new Swiper(".medicine-industry-swiper", {
   },
 });
 
-var swiper = new Swiper(".skincare-industry-swiper", {
+var swiper = new Swiper(".beauty-industry-swiper", {
   slidesPerView: 1,
   spaceBetween: 30,
   loop: true,
   pagination: {
-    el: ".skincare-industry-swiper-pagination",
+    el: ".beauty-industry-swiper-pagination",
     clickable: true,
   },
 });
 
-var swiper = new Swiper(".apparel-industry-swiper", {
+var swiper = new Swiper(".bathroom-industry-swiper", {
   slidesPerView: 1,
   spaceBetween: 30,
   loop: true,
   pagination: {
-    el: ".apparel-industry-swiper-pagination",
+    el: ".bathroom-industry-swiper-pagination",
     clickable: true,
   },
 });
@@ -86,9 +86,39 @@ var swiper = new Swiper(".apparel-industry-swiper", {
 var swiper = new Swiper(".social-industry-swiper", {
   slidesPerView: 1,
   spaceBetween: 30,
-  loop: true,
+  //loop: true,
   pagination: {
     el: ".social-industry-swiper-pagination",
+    clickable: true,
+  },
+});
+
+var swiper = new Swiper(".nonprofit-industry-swiper", {
+  slidesPerView: 1,
+  spaceBetween: 30,
+  //loop: true,
+  pagination: {
+    el: ".nonprofit-industry-swiper-pagination",
+    clickable: true,
+  },
+});
+
+var swiper = new Swiper(".clothing-industry-swiper", {
+  slidesPerView: 1,
+  spaceBetween: 30,
+  //loop: true,
+  pagination: {
+    el: ".clothing-industry-swiper-pagination",
+    clickable: true,
+  },
+});
+
+var swiper = new Swiper(".consultant-industry-swiper", {
+  slidesPerView: 1,
+  spaceBetween: 30,
+  //loop: true,
+  pagination: {
+    el: ".consultant-industry-swiper-pagination",
     clickable: true,
   },
 });

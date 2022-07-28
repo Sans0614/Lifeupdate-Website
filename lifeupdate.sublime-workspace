@@ -259,25 +259,7 @@
 			"file": "pug/index.pug",
 			"settings":
 			{
-				"buffer_size": 37287,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 41277,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pug/operation.pug",
-			"settings":
-			{
-				"buffer_size": 11735,
+				"buffer_size": 37695,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -286,7 +268,7 @@
 			"file": "sass/style.sass",
 			"settings":
 			{
-				"buffer_size": 13987,
+				"buffer_size": 14237,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -295,7 +277,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 15065,
+				"buffer_size": 15325,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -304,7 +286,8 @@
 			"file": "js/swiper.js",
 			"settings":
 			{
-				"buffer_size": 2330,
+				"buffer_size": 2966,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -373,10 +356,22 @@
 		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit",
 		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/css",
 		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/js",
-		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/sass"
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug"
 	],
 	"file_history":
 	[
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/contact_us.pug",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/recruit.pug",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/slasher_recruit.pug",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/slasher_recruit.html",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/recruit.html",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/contact_us.html",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/Industry.pug",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/operation.pug",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/content.pug",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/content.html",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/Industry.html",
+		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/pug/about_us.pug",
 		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/index.html",
 		"/C/升活商務顧問有限公司/20200706_升活商務顧問公司Lifeupdate/01_Website/06_Code/edit/operation.html",
 		"/C/升活商務顧問有限公司/20220516_王者咖啡/01_Website/04_Code/edit/css/style.css",
@@ -492,19 +487,7 @@
 		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/pug/固營.pug",
 		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/固營.html",
 		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/02_保健食品/01_Website/05_Code/日光維生素D3.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/operation.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/css/style.css",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/sass/style.sass",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/pug/operation.pug",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/css/style-social.css",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/coupon-detail2.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/navbar.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/login.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/05_20210803_Togayther/01_Website/05_Code/Stage03/Edit/social.html",
-		"/C/Users/sans/AppData/Local/Temp/Rar$DIa4396.28141/style-social.css",
-		"/C/Users/sans/AppData/Local/Temp/Rar$DIa1704.34270/style-social.css",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/index.html",
-		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/01_20200708_中化360/01_指示藥品OTC/03_data/05_mapjs/dist/20211224/js/app.27cedd87.js"
+		"/G/我的雲端硬碟/02_SansDesign/04_公司作品 Work/20200706_升活商務顧問有限公司/00_升活商務顧問公司Lifeupdate/01_Website/06_Code/operation.html"
 	],
 	"find":
 	{
@@ -522,6 +505,44 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"p-content/themes",
+			"http://lifeupdate.com.tw/",
+			"wp-content/themes",
+			"\"wp-content/themes",
+			"li",
+			".left-start",
+			".list-style-dc",
+			"/wp-content/themes",
+			"wp-content/themes/",
+			"http://lifeupdate.com.tw/",
+			"/wp-content/themes",
+			"wp-content/themes",
+			"wp-content/themes/astra/img/case/betterlife360_health.jpg",
+			"//a(href=\"\" target='_blank')",
+			"/wp-content/themes",
+			"wp-content/themes",
+			"wp-content/themes/astra",
+			"health",
+			"skincare",
+			"apparel",
+			"clothing",
+			"nonprofit",
+			"經原布料裁剪、按型式縫製等加工過程後產出，利用精細手法將打造成每個品牌的獨特風格。",
+			"Clothing Industry",
+			"服飾產業",
+			"因應每個人的生活習慣與機能使用的不同，現在有許多不同的設計，衛浴空間不只是洗浴的解讀，也需要具有放鬆心情、沉澱心靈的作用，也是讓自己更健康的一處空間",
+			"Bathroom Industry",
+			"衛浴產業",
+			".social-industry",
+			".w-mb-100pc",
+			".w-400px",
+			".portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100",
+			"doctype \nhtml\n  head\n    meta(charset='UTF-8')\n    title 經營產業 - Lifeupdate\n    meta(name='description' content='電子商務已成為趨勢，初次踏入電商領域的中小型企業/店家是否因為人力與資源不足而備受困擾?將電商事業交由升活商務代營運，如官網建置與設計、行銷推廣、後勤支援等，提供您一條龍完整的服務。')\n    link(rel='icon' href='./img/favicon.svg' type='image/x-icon')\n    meta(property='og:image' content='./img/ogimage.jpg')\n    meta(name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no')\n    link(href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0\" crossorigin=\"anonymous\")\n    link(rel='stylesheet' href='https://unpkg.com/swiper@7/swiper-bundle.min.css')\n    link(href=\"https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap\" rel=\"stylesheet\")\n    link(href=\"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap\" rel=\"stylesheet\")  \n    link(rel='stylesheet' href='./css/style.css')\n\n  body\n    #page-banner.bg-logo-bottom.bg-logo-top-after.overflow-x\n      .container-xl.container-1100.d-flex.h-100.position-relative.z-index-500\n        .row\n          .col-lg-5.d-lg-flex.d-block.flex-column.align-items-xl-start.justify-content-center\n            h1.text-uppercase Industry\n            h4 經營產業\n            .title-hr.justify-content-xl-center\n            p 電子商務已成為趨勢，初次踏入電商領域的中小型企業/店家是否因為人力與資源不足而備受困擾?將電商事業交由升活商務代營運，如官網建置與設計、行銷推廣、後勤支援等，提供您一條龍完整的服務。\n            a.btn.btn-cta.bg-brand-blue.rounded-pill.px-3.py-1.white(href=\"#service-form\") 選擇此方案\n          .col-lg-7.d-flex.justify-content-center\n            img.mt-mb-30.w-mb-80pc(src=\"http://lifeupdate.com.tw/wp-content/themes/astra/img/illustrator/industry.png\")\n\n    #industry-block.pb-80.bg-bottom.bg-logo-bottom.overflow-x\n      .container-xl.container-1100.position-relative.z-index-500\n        .row\n          .col-lg-6.d-none.d-md-flex.flex-column.align-items-xl-start.justify-content-center\n            h2.text-center 餐飲產業\n            p.text-uppercase.text-center.mb-0 Food Service Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 「飲食」是生活中最不可或缺的一部分，餐飲服務成了現代的趨勢，利用每間餐廳獨特的菜色，吸引不同族群\n          .col-lg-6\n            .swiper.food-industry-swiper.p-13\n              .swiper-wrapper\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 麻膳堂\n                              p.white.mb-mb-0.ellipsis-6 『更美好，體驗台灣的美味』 麻膳堂相信台灣美食需要用更美好的方式來被體驗而我們致力\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/mazendo.jpg\", alt=\"麻膳堂\")\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 SIPSHIP\n                              p.white.mb-mb-0.ellipsis-6 SIPSHIP品牌創立於2021年，「細細品味，回歸純粹。」是品牌核心價值。 首間品牌概念店座落台北信義路，創辦人秉持著讓台灣茶飲文化走向世界的初衷，期望打造清新純淨的飲品體驗文化，追求品味、時尚與機能三者兼具的獨家飲品，開創與眾不同的味蕾體驗。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/sipship.jpg\", alt=\"SIPSHIP\")\n            .food-industry-swiper-pagination.d-flex.justify-content-center\n          .col-lg-6.d-flex.d-md-none.flex-column.align-items-xl-start.mt-50.justify-content-center\n            h2.text-center 餐飲產業\n            p.text-uppercase.text-center.mb-0 Food Service Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 「飲食」是生活中最不可或缺的一部分，餐飲服務成了現代的趨勢，利用每間餐廳獨特的菜色，吸引不同族群\n\n      .container-xl.container-1100.position-relative.z-index-500.mt-50\n        .row\n          .col-lg-6\n            .swiper.health-industry-swiper.p-13\n              .swiper-wrapper\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 珍珍\n                              p.white.mb-mb-0.ellipsis-6 珍珍官方旗艦館，獨家網路販售，超取499免運費，魷魚絲、鱈魚香絲等多款經典零食一次買齊。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/janejane.jpg\", alt=\"珍珍\")\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 王者咖啡\n                              p.white.mb-mb-0.ellipsis-6 擁有20多年的匠心製造和研發技術，備受全球眾多咖啡愛好者青睞，專注於精品商務咖啡。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/kingcoffee.jpg\", alt=\"王者咖啡\")\n            .health-industry-swiper-pagination.d-flex.justify-content-center\n          .col-lg-6.d-flex.flex-column.align-items-xl-start.justify-content-center.mt-50\n            h2.text-center 食品產業\n            p.text-uppercase.text-center.mb-0 Food Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 食品是民生的基礎，台灣食品產業歷經數十年的發展茁壯，每個品牌利用食品特色來強調自己的風格\n\n      .container-xl.container-1100.position-relative.z-index-500.mt-50\n        .row\n          .col-lg-6.d-none.d-md-flex.flex-column.align-items-xl-start.justify-content-center\n            h2.text-center 保健&藥品產業\n            p.text-uppercase.text-center.mb-0 Health&Medicine Industry \n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 根據每個人的身體狀況，日常保健是現在大多人重視的一大環節，利用保健食品來補強身體機能、強化身體；當身體不適時，適當服用藥品減緩疼痛\n          .col-lg-6\n            .swiper.medicine-industry-swiper.p-13\n              .swiper-wrapper\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 中化健康360\n                              p.white.mb-mb-0.ellipsis-6 中國化學製藥擁有數十年歷史，所生產之藥品品質已達成國際水準，亦是台灣最大的藥品製造商。中化健康360的誕生，是希望能塑造全新的健康品牌，在一般消費通路上提升品牌熟悉度與識別度，但同時仍保有中國化學製藥的傳承感。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/betterlife360_otc.jpg\", alt=\"中化健康360\")\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 中化保健\n                              p.white.mb-mb-0.ellipsis-6 中國化學製藥擁有數十年歷史，除了藥品生產、研發外，也跨足了保健品及家用、美妝產品。我們秉持「誠實無私、友愛互助」、「夜以繼日、研究發展、造福社會人群」的企業經營理念，不斷地研究發展，開創新局，期能為國人提供安全健康之現代生活。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/betterlife360_health.jpg\", alt=\"中化保健\")\n            .medicine-industry-swiper-pagination.d-flex.justify-content-center\n          .col-lg-6.d-flex.d-md-none.flex-column.align-items-xl-start.mt-50.justify-content-center\n            h2.text-center 保健&藥品產業\n            p.text-uppercase.text-center.mb-0 Health&Medicine Industry \n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 根據每個人的身體狀況，日常保健是現在大多人重視的一大環節，利用保健食品來補強身體機能、強化身體；當身體不適時，適當服用藥品減緩疼痛\n\n    #industry-block-02.pb-80.bg-top.bg-logo-top.overflow-x\n      .container-xl.container-1100.position-relative.z-index-500\n        .row\n          .col-lg-6\n            .swiper.skincare-industry-swiper.p-13\n              .swiper-wrapper\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 D.M.H 德‧男士髮型\n                              p.white.mb-mb-0.ellipsis-6 當大家想選擇多樣化的服務時，我們只專注在男人的需求上；當型男風潮興起時，多數美髮師都在觀望，卻開啟設計師阿德生命中偏執的熱情，或許，專注使我們失去一些顧客，卻也使我們更豐富了男士髮型的內涵。 我們承襲了上海師傅的精湛工藝和積極的美學培養，加上不斷的技術研習，造就出時尚的D.M.H德‧男士髮型。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/dmh.jpg\", alt=\"D.M.H德‧男士髮型\")\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 樂健康\n                              p.white.mb-mb-0.ellipsis-6 東方用香的歷史超過4000年，是從那一縷裊裊上升，直達天聽的輕煙開始。在寧靜悠遠的香氣中，人們祈願萬事平安、祈願風調雨順。就連繁忙的塵囂，也因著香氣而被隔絕於外，香氣，是文化的代表，也是和自己對話的開始。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/樂健康.jpg\", alt=\"樂健康\")\n            .skincare-industry-swiper-pagination.d-flex.justify-content-center\n          .col-lg-6.d-flex.flex-column.align-items-xl-start.justify-content-center.mt-50\n            h2.text-center 美產業\n            p.text-uppercase.text-center.mb-0 Beauty Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 美產業分別有：美容、美髮、美甲、美睫、SPA......等，美的事物是消費者追逐的方向，許多消費者依舊探索不同的方式自我保養或是讓自己更美\n\n      .container-xl.container-1100.position-relative.z-index-500.mt-50\n        .row\n          .col-lg-6.d-none.d-md-flex.flex-column.align-items-xl-start.justify-content-center\n            h2.text-center 衛浴產業\n            p.text-uppercase.text-center.mb-0 Bathroom Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 因應每個人的生活習慣與機能使用的不同，現在有許多不同的設計，衛浴空間不只是洗浴的解讀，也需要具有放鬆心情、沉澱心靈的作用，也是讓自己更健康的一處空間\n          .col-lg-6\n            .swiper.apparel-industry-swiper.p-13\n              .swiper-wrapper\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 藝耐\n                              p.white.mb-mb-0.ellipsis-6 藝耐衛浴 (innoci) 秉承德國精工細作、精益求精的專業設計精神，萃取歐洲藝術創作魅力，推崇極簡主義的生活哲學，產品以時尚的風格和人性化的結構著稱，在保障衛生、健康、舒適的同時，致力於個人化、多功能、整体的浴室解决方案，讓用户享受時尚雅致的生活。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/innoci.png\", alt=\"藝耐\")\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 鑫金豪\n                              p.white.mb-mb-0.ellipsis-6 成立15年以誠信立業的經營理念，秉承以創造性、優良性的品牌，提供顧客 專業、用心及完善的廚具衛浴產品。始終堅持永續經營、服務至上為目標。期盼以嚴格的品質要求與專業的售後服務，滿足所有對家充滿渴望與憧憬的您。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/sinjinhao.png\", alt=\"鑫金豪\")\n            .apparel-industry-swiper-pagination.d-flex.justify-content-center\n          .col-lg-6.d-flex.d-md-none.flex-column.align-items-xl-start.mt-50.justify-content-center\n            h2.text-center 衛浴產業\n            p.text-uppercase.text-center.mb-0 Bathroom Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start.text-center.mb-0 因應每個人的生活習慣與機能使用的不同，現在有許多不同的設計，衛浴空間不只是洗浴的解讀，也需要具有放鬆心情、沉澱心靈的作用，也是讓自己更健康的一處空間\n\n      .container-xl.container-1100.position-relative.z-index-500.mt-50\n        .row\n          .col-lg-6\n            .swiper.social-industry-swiper.p-13\n              .swiper-wrapper\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 藝耐\n                              p.white.mb-mb-0.ellipsis-6 藝耐衛浴 (innoci) 秉承德國精工細作、精益求精的專業設計精神，萃取歐洲藝術創作魅力，推崇極簡主義的生活哲學，產品以時尚的風格和人性化的結構著稱，在保障衛生、健康、舒適的同時，致力於個人化、多功能、整体的浴室解决方案，讓用户享受時尚雅致的生活。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/innoci.png\", alt=\"藝耐\")\n                .swiper-slide\n                  .rounded-10.shodow-3.bg-white.mt-20\n                    .row\n                      .col-md-12\n                        //- a(href=\"##\") \n                        .portfolio-card.rounded-10.shodow-3.position-relative.h-300.w-100\n                          .portfolio-card-hover.rounded-10.h-100.w-100.bg-hover.position-absolute\n                            .portfolio-text.position-absolute-center.w-75\n                              h4.white.mb-0 鑫金豪\n                              p.white.mb-mb-0.ellipsis-6 成立15年以誠信立業的經營理念，秉承以創造性、優良性的品牌，提供顧客 專業、用心及完善的廚具衛浴產品。始終堅持永續經營、服務至上為目標。期盼以嚴格的品質要求與專業的售後服務，滿足所有對家充滿渴望與憧憬的您。\n                          img.img-obj-cover.h-100.w-100.rounded-10(src=\"wp-content/themes/astra/img/case/sinjinhao.png\", alt=\"鑫金豪\")\n            .social-industry-swiper-pagination.d-flex.justify-content-center\n          .col-lg-6.d-flex.flex-column.align-items-xl-start.justify-content-center.mt-50\n            h2.text-center 社群產業\n            p.text-uppercase.text-center.mb-0 Social Industry\n            .title-hr.justify-content-xl-center\n            p.text-lg-start .text-center.mb-0 電子商務已成為趨勢，初次踏入電商領域的中小型企業/店家是否因為人力與資源不足而備受困擾?將電商事業交由升活商務代營運，如官網建置與設計、行銷推廣、後勤支援等，提供您一條龍完整的服務。\n\n      #service-form.container-xl.container-1100.position-relative.z-index-500.mt-80\n        .row.justify-content-center\n          .col-lg-12\n            h2.text-center 選擇此方案\n            p.text-uppercase.text-center it is a viable option\n          .col-lg-12\n            .p-30.rounded-10.shodow-10.p-mb-20.bg-white\n              .row\n                .col-lg-6\n                  img.img-obj-cover.h-100.w-100.rounded-10(src=\"http://lifeupdate.com.tw/wp-content/themes/astra/img/illustrator/industry_bg.png\", alt=\"\")\n                .col-lg-6.service-form-block.pl-20.mt-mb-30\n                  //[contact-form-7 id=\"167\" title=\"Industry\"]\n                  .mb-15\n                    label.fz-18(for='customer-name') 姓名\n                      span.red *\n                    input.input-blue-95.w-100.p-12.rounded-10(placeholder=\"請輸入您的姓名\")\n                    // [text* customer-name class:input-blue-95 class:w-100 class:p-12 class:rounded-10 placeholder \"請輸入您的姓名\"]\n                  .mb-15\n                    label.fz-18(for='customer-email') 信箱\n                      span.red *\n                    input.input-blue-95.w-100.p-12.rounded-10(placeholder=\"請輸入您的信箱\")\n                    //[email* customer-email class:input-blue-95 class:w-100 class:p-12 class:rounded-10 placeholder \"請輸入您的信箱\"]\n                  .mb-15\n                    label.fz-18(for='customer-phone') 電話\n                      span.red *\n                    input.input-blue-95.w-100.p-12.rounded-10(placeholder=\"請輸入您的電話\")\n                    //[tel* customer-phone class:input-blue-95 class:w-100 class:p-12 class:rounded-10 placeholder \"請輸入您的電話\"]\n                  .mb-15\n                    label.fz-18(for='customer-textarea') 需求描述或備註\n                    textarea.input-blue-95.w-100.p-12.rounded-10(row=\"3\" placeholder=\"請輸入您的需求或備註\")\n                    //[text customer-need class:input-blue-95 class:w-100 class:p-12 class:rounded-10 placeholder \"請輸入您的產業\"]\n                  .mb-15.index-dropbox\n                    label.fz-18(for='customer-time') 可聯繫時間\n                    select.input-blue-95.w-100.p-12.rounded-10(name='customer-time')\n                      option(selected='') 請選擇可聯繫時間\n                      option(value='morning') 上午 09:00 - 12:00\n                      option(value='afternoon') 下午 13:00 - 18:00\n                      option(value='night') 晚上 19:00 - 21:00\n                    //[select customer-time class:input-blue-95 class:w-100 class:p-12 class:rounded-10 \"可聯繫時間\" \"上午 09:00 - 12:00\" \"下午 13:00 - 18:00\" \"晚上 19:00 - 21:00\"]\n                  .mt-20\n                    .btn-cta.w-100.p-12.text-center.bg-brand-blue.rounded-10.white 寄出\n                    //| [submit \"寄出\" class:btn-cta class:w-100 class:p-12 class:text-center class:bg-brand-blue class:rounded-10 class:white]\n\n\n            \n\n\n    script(src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8\" crossorigin=\"anonymous\")\n    script(src=\"https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js\" integrity=\"sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p\" crossorigin=\"anonymous\")\n    script(src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.min.js\" integrity=\"sha384-lpyLfhYuitXl2zRZ5Bn2fqnhNAKOAaM/0Kr9laMspuaMiZfGmfwRNFh8HlMy49eQ\" crossorigin=\"anonymous\")\n    script(src='https://unpkg.com/swiper/swiper-bundle.min.js')\n    script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js')\n    script(src='https://unpkg.com/popper.js')\n    script(src='./js/swiper.js')\n",
+			"電子商務已成為趨勢，初次踏入電商領域的中小型企業/店家是否因為人力與資源不足而備受困擾?將電商事業交由升活商務代營運，如官網建置與設計、行銷推廣、後勤支援等，提供您一條龍完整的服務。",
+			"Apparel Industry ",
+			"服飾產業",
+			".ellipsis-tb-8",
+			"AlmpV91w5qU",
 			".z-index-500",
 			".index-banner-block",
 			".vh-100",
@@ -611,45 +632,7 @@
 			".social-message-chat-user,.social-message-chat-content ",
 			".social-message-chat-content",
 			".social-message-chat-persona",
-			" .social-message-chat-user-content-personal-page",
-			"width: 250px",
-			".social-message-chat-content-link-description",
-			".social-message-chat-personal",
-			"max-width: 200px",
-			".social-message-chat-personal-content,.social-message-chat-content",
-			" .social-message-chat-personal-content,.social-message-chat-content",
-			".social-message-chat-personal-content",
-			".social-message-chat-user.social-message-chat-content-link-description",
-			"20220511",
-			"20220510",
-			"20220511",
-			"標註人名",
-			"20220511",
-			"20220510",
-			"20220511",
-			"-給力信息科技有限公司給力信息科技有限公司給力信息科技有限公司",
-			"SANDERS-SANDERSSANDERSSANDERSSANDERSSANDERS",
-			".social-post-header",
-			"該粉絲",
-			"font-size: 14px\n  color: $gray-808080",
-			".social-check-in",
-			"height",
-			".social-post-comment-block",
-			"input",
-			"border-radius",
-			"margin-left: 16px",
-			"20220507",
-			".social-personal-page-no-articles-block",
-			"//電腦版被選取的聊天對象，會加上.bg-333333這個class",
-			"social-message-chat-content-post-meta",
-			"social-message-chat-post-block",
-			"social-message-chat-img-block",
-			".social-message-chat-content-post-title",
-			"social-message-chat-content-post-title",
-			".social-message-chat-user-content",
-			".social-message-chat-personal",
-			".social-message-edit-section",
-			".social-post-report-options-section.social-message-edit-section"
+			" .social-message-chat-user-content-personal-page"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -667,7 +650,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -676,39 +659,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 37287,
+						"buffer_size": 37695,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1645,
-								1645
-							],
-							[
-								2155,
-								2155
-							],
-							[
-								6789,
-								6789
-							],
-							[
-								29652,
-								29652
-							],
-							[
-								33952,
-								33952
-							],
-							[
-								34448,
-								34448
+								343,
+								343
 							]
 						],
 						"settings":
 						{
+							"auto_complete": false,
 							"incomplete_sync": null,
 							"is_init_dirty_state": false,
 							"origin_encoding": "UTF-8",
@@ -719,101 +683,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 12635.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 41277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								36941,
-								36941
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 13566.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pug/operation.pug",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11735,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1702,
-								1702
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"is_init_dirty_state": false,
-							"origin_encoding": "UTF-8",
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Pug/Syntaxes/Pug.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1482.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "sass/style.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 13987,
+						"buffer_size": 14237,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9046,
-								9046
+								10444,
+								10440
 							]
 						],
 						"settings":
@@ -828,19 +724,19 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 10096.0,
+						"translation.y": 11312.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 2,
 					"file": "css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15065,
+						"buffer_size": 15325,
 						"regions":
 						{
 						},
@@ -848,7 +744,7 @@
 						[
 							[
 								0,
-								15065
+								15325
 							]
 						],
 						"settings":
@@ -863,10 +759,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 7.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -876,25 +772,27 @@
 			"sheets":
 			[
 				{
-					"buffer": 5,
+					"buffer": 3,
 					"file": "js/swiper.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2330,
+						"buffer_size": 2966,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2002,
-								1968
+								0,
+								2966
 							]
 						],
 						"settings":
 						{
+							"auto_complete": false,
 							"incomplete_sync": null,
+							"is_init_dirty_state": false,
 							"origin_encoding": "ASCII",
 							"remote_loading": false,
 							"synced": false,
@@ -903,10 +801,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 969.0,
+						"translation.y": 1710.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -946,8 +844,8 @@
 		"cols":
 		[
 			0.0,
-			0.589762308998,
-			0.971703452179,
+			0.573641986896,
+			0.970131421744,
 			1.0
 		],
 		"rows":
@@ -1015,7 +913,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 153.0,
+	"side_bar_width": 246.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

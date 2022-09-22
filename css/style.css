@@ -222,7 +222,7 @@ h2 {
 h3 {
   font-size: 28px !important;
   color: #1D1D1D !important;
-  line-height: 1.5 !important;
+  line-height: 1.2 !important;
   font-weight: 700 !important;
 }
 
@@ -357,6 +357,10 @@ textarea {
 li {
   padding-top: 2px;
   padding-bottom: 2px;
+}
+
+tbody, td, tfoot, th, thead, tr {
+  border-width: 1px !important;
 }
 
 .mt--10 {

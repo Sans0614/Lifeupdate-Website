@@ -1124,21 +1124,18 @@ tbody, td, tfoot, th, thead, tr {
   margin-top: 24px;
 }
 
-.footer-social-facebook, .footer-social-line {
-  padding: 12px;
-  border-radius: 100px;
-  border: 1px solid #FFFFFF;
+.footer-social-facebook, .footer-social-line, .footer-social-linked {
   margin-bottom: 12px;
 }
-.footer-social-facebook img, .footer-social-line img {
-  width: 22px;
-  height: 22px;
+.footer-social-facebook img, .footer-social-line img, .footer-social-linked img {
+  width: 40px;
+  height: 40px;
   -o-object-fit: contain;
      object-fit: contain;
 }
 
 .footer-social-line {
-  margin-left: 16px;
+  margin-right: 16px;
 }
 
 .footer-title {

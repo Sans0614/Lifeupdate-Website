@@ -312,7 +312,7 @@
 			"file": "sass/style.sass",
 			"settings":
 			{
-				"buffer_size": 19240,
+				"buffer_size": 18091,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -321,7 +321,7 @@
 			"file": "css/style.css",
 			"settings":
 			{
-				"buffer_size": 20805,
+				"buffer_size": 19488,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -731,7 +731,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1442.0,
+						"translation.y": 378.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
@@ -868,7 +868,7 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -877,15 +877,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19240,
+						"buffer_size": 18091,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15304,
-								15304
+								12930,
+								12930
 							]
 						],
 						"settings":
@@ -974,10 +974,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 16416.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -986,7 +986,7 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 20805,
+						"buffer_size": 19488,
 						"regions":
 						{
 						},
@@ -994,7 +994,7 @@
 						[
 							[
 								0,
-								20805
+								19488
 							]
 						],
 						"settings":
@@ -1251,13 +1251,15 @@
 						],
 						"settings":
 						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
 							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -1297,8 +1299,8 @@
 		"cols":
 		[
 			0.0,
-			0.471491449261,
-			0.787933094385,
+			0.470296706131,
+			0.970131421744,
 			1.0
 		],
 		"rows":
@@ -1358,7 +1360,7 @@
 		],
 		"width": 592.0
 	},
-	"selected_group": 2,
+	"selected_group": 1,
 	"settings":
 	{
 	},
